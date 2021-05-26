@@ -24,7 +24,7 @@ title: TECHBOOK
 email: sahildongre1000@example.com
 description: TECHBOOK is the one go to place for all your tech needs. The TECHBOOK comunnity is filled with
   professional and tech enthuciast.
-baseurl: "/TECHBOOK" # the subpath of your site, e.g. /blog
+baseurl: "/Techbook" # the subpath of your site, e.g. /blog
 url: "https://sahildongre20.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sahildongre3
 github_username: sahildongre20
